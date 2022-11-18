@@ -21,7 +21,8 @@
 
 - :computer: I'm currently working on improving my Data Science Skills.
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">🌍 Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MahmoudGody-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-gody-281380195/)](https://www.linkedin.com/in/mahmoud-gody-281380195/)
+[![Linkedin Badge](https://img.shields.io/badge/-MahmoudGody-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-gody-281380195/)](https://www.linkedin.com/in/mahmoud-gody-281380195/) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Moodrammer-lightblue?style=plastic&link=https://www.kaggle.com/moodrammer)](https://www.kaggle.com/moodrammer)
+
 
