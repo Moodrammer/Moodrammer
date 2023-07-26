@@ -1,9 +1,12 @@
 <h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Mahmoud Gody 👨🏻‍💻
+  
+  <img src="https://github.com/Moodrammer/Moodrammer/assets/42741071/efa455cd-14de-43b2-a475-bc9908b46410" alt="Coder GIF" width="500">
+ 
+  I'm Mahmoud Gody 👨🏻‍💻
   <br>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Coder GIF" width="300">
+
  </abc>
 </h2>
 
@@ -36,8 +39,8 @@
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
 - 🎓 I'm a fresh graduate Computer Engineering Student, Cairo University.
-- 🏢 I'm currently working as a junior AI Engineer at Ejada systems.
 - 📊 I'm interested in Data science, Machine learning, Deep learning and related fields.
+- 🎨 I'm also interested in game development and game design using pixel art!
 
 <h2 align="center">🌍 Let's get connected</h2>
 
